@@ -7,5 +7,5 @@
 This organization contains all the important repositories required to build AOSP/LineageOS based ROMs for Samsung Galaxy A10s.
 
 ### Repositories
-* [**Device Tree**](https://github.com/onesmiledx/android_device_samsung_a10s) (`android_device_samsung_a10s`)
-* [**Vendor Tree**](https://github.com/onesmiledx/android_vendor_samsung_a10s) (`android_vendor_samsung_a10s`)
+* [**Device Tree**](https://github.com/samsung-mt6765-devs/android_device_samsung_a10s) (`android_device_samsung_a10s`)
+* [**Vendor Tree**](https://github.com/samsung-mt6765-devs/android_vendor_samsung_a10s) (`android_vendor_samsung_a10s`)

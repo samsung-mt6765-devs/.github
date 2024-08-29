@@ -9,4 +9,4 @@ This organization contains all the important repositories required to build AOSP
 ### Repositories
 * [**Device Tree**](https://github.com/samsung-mt6765-devs/android_device_samsung_a10s) (`android_device_samsung_a10s`)
 * [**Vendor Tree**](https://github.com/samsung-mt6765-devs/android_vendor_samsung_a10s) (`android_vendor_samsung_a10s`)
-* [**Kernel Source**](https://github.com/samsung-mt6765-devs/android_kernel_samsung_a10s) (`android_kernel_samsung_a10s`)
+* [**Kernel Source**](https://github.com/samsung-mt6765-devs/android_kernel_samsung_a10s) (`android_kernel_samsung_a10s`) (thanks to Rissu (pro dev)).
